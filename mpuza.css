@@ -1,0 +1,535 @@
+* {
+    margin: 0;
+    
+    
+
+}
+body {
+    background-color: rgb(123, 236, 240);
+
+}
+body ul{
+    list-style: none;
+    
+}
+
+header {
+    background: red;
+    max-width: 100%;
+    font-size: larger;
+    margin-top: -12px;
+    
+}
+.meme input {
+    padding: 10px;
+    width: 300px;
+}
+
+header p {
+    color: white;
+   
+    
+}
+header input {
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.search {
+   
+}
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 70px;
+    margin-left: 40px;
+    color: white;   
+}
+.list{
+    background-color: green;
+}
+
+
+.people {
+    margin-left: -10px;
+     display: flex;
+     gap: 15px;
+     font-size: 15px;
+    text-align: center;
+}
+.book {
+    margin-left: 15px;
+     display: flex;
+     gap: 15px;
+     font-size: 15px;
+    text-align: center;
+}
+.notification {
+    margin-left: 25px;
+     display: flex;
+     gap: 10px;
+     font-size: 15px;
+    text-align: center;
+}
+.tie{
+    margin-left: 30px;
+    display: flex;
+    gap: 8px;
+    font-size: 15px;
+    text-align: center;
+}
+.ten{
+    margin-top: -12px;
+    
+}
+.seven{
+    margin-top: -12px;
+}.two{
+    margin-top: -12px;
+}.nine{
+    margin-top: -12px;
+}
+.seven p{
+    color:white;
+    background-color: blue;
+}
+.two p{
+    color:white;
+    background-color: blue;
+}
+.nine p{
+    color:white;
+    background-color: blue;
+}
+.ten p{
+    color:white;
+    background-color: blue;
+}
+.image1 {
+   display: flex;
+}
+.image1 img {
+    margin-left: 75px;
+    margin-top: 20px;
+}
+.image1 p{
+   margin-top: 30px;
+   font-size: larger;
+   font-weight: bold;
+   margin-left: -15px;
+}
+
+.buttons{
+    margin-top: -20px;
+    height: 40px;
+   
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    font-size: large;
+    color: red;
+    font-weight: bold;
+   
+}
+.anac{
+   display: flex;
+   flex-direction: column;
+   margin-top: -30px;
+   
+}
+.anac img{
+    background-color: white;
+    border-radius: 40px;
+    height:40px;
+    width:40px;
+}
+.anac select{
+    border: none;
+    background: none;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
+header ul a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.mine{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: -30px;
+ 
+ 
+
+}
+.mine select{
+    border: none;
+    background: none;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.meme{
+    margin-top: -20px;
+    height: 10px;
+    
+}
+.meme input{
+    width: 400px;
+}
+
+.meme img{
+    margin-top: 0px;
+margin-left: 2px;
+position: absolute;
+height: 40px;
+
+}
+
+
+.all{
+    margin-left: 30px;
+}
+
+.flex{
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.1);
+    width: 400px;
+    height: auto;
+}
+
+.airteli {
+    position: relative;
+    margin-top: -30px;
+    align-items: center;
+    text-align: center;
+}
+.lisa{
+}
+
+.anap {
+    position: relative;
+    background-color: white;
+    border-radius: 40px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    margin-top: -40px;
+    margin-left: 170px;
+    
+}
+.mama{
+    text-align: center;
+    font-size: larger;
+    margin-top: 20px;
+}
+.job{
+   padding:20px;
+   font-size: larger;
+}
+.job ul{
+    padding: 20px;
+}
+.job img{
+    align-items: center;
+}
+.ana img{
+    height: 40px;
+    margin-left: 5px;
+}
+.company{
+    text-align: center;
+    font-size: larger;
+}
+.page{
+    font-size: larger; 
+}
+.prof{
+    font-size: larger;
+    padding: 20px;
+    text-align: center;
+}
+.kara{
+    text-align: center;
+    color: rgb(18, 2, 255);
+    margin-right: 15px;
+}
+.container{
+    display: flex;
+    padding: 20px;
+}
+.home {
+    margin-left: 40px;
+    border: 1px solid rgb(255, 255, 255);
+    width: 550px;
+    height: 20px;
+    padding: 10px;
+    background-color: white;
+    
+}
+.follower{
+    margin-left:40px ;
+    margin-top: 20px;
+    background-color: white;
+    width: 530px;
+    padding: 17px;
+
+}
+.follower a{
+    color: blue;
+    text-decoration: none;
+    
+}
+.span-follower {
+   display: flex; 
+   gap: 20px;
+   align-items: center;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: 40px;
+}
+.span-follower button {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+    width: 80px;
+    color: white;
+    border: none;
+}
+.airtel{
+    display: flex;
+    margin-top: 10px;
+
+}
+.network{
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 7px;
+    width: 180px;
+    padding: 5px;  
+    text-align: center;
+}
+.machine{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 7px;
+    width: 180px;
+    text-align: center; 
+}
+.legal{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 7px;
+    width: 180px;
+    text-align: center;
+   
+}
+.airtel h5 {
+    font-size: 13px;
+}
+
+.network button {
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+     padding: 5px;
+     margin-top: 40px;
+}
+.network img {
+   align-items: center;
+}
+
+.machine img{
+ 
+}
+.machine button {
+    margin-top: 35px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: none;
+     border-radius: 7px;
+     padding: 5px;
+}
+.legal img{
+     align-items: center;
+}
+.legal button {
+    margin-top:35px;
+     color: rgb(255, 255, 255);
+    background-color: blue;
+    border: none;
+     border-radius: 7px;
+      padding: 5px;
+     
+}
+
+
+.nature {
+    position: relative;
+    
+}
+.airtell{
+     position: absolute;
+     margin-left: -115px;
+     margin-top: 10px;
+     
+}
+
+.container ul{
+margin-top: 20px;
+
+}
+
+.airtel button:hover {
+    background-color: green;
+}
+
+.ones{
+    display: flex;
+    margin-left: 20px;
+}
+.minutes{
+    display: flex;
+    padding: 40px;
+    gap: 40px;
+    color: red;
+    font-weight: bold;
+    margin-left: 90px;
+}
+.days{
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+    margin-left: -230px;
+    margin-top: 10px;
+}
+.ones{
+  display: flex;  
+  
+}
+.vacant{
+    background: white;
+    height: 150px;
+    width: 570px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.byose{
+    color: blue;
+    background-color: blue;
+    width: 90px;
+    border-radius: 12px;
+    margin-top: 12px;
+    margin-left: 20px;
+
+}
+.urgent{
+    margin-left: -400px;
+    margin-top: 30px;
+}
+.days{
+    margin-left: 70px;
+    margin-top: -80px;
+}
+.parag{
+    text-align: end;
+    margin-right: -50px;
+    margin-top: -140px;
+}
+
+.favourite{
+    display: block;
+}
+.favor{
+    display: flex;
+}
+.mimi{
+    background: white;
+    margin-left: 20px;
+    width: 300px;
+}
+.kba{ 
+    text-align: center;
+    position: relative;
+}
+.manzi{
+    text-align: center;
+    margin-top: -50px;
+}
+.mimi p{
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+.aime{
+    margin-left: 20px;
+    background: white;
+    width: 280px;
+   padding:10px ;
+}
+.aime h4{
+    text-align: center;
+}
+.download{
+    margin-left: 20px;
+    width: 300px;
+}
+.parent{
+    background: white;
+    height: 190px;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+    border-radius: 12px 12px 0px 0px;
+    
+}
+.system p{
+    font-size: larger;
+    padding:3px;
+}
+.coco{
+    margin: 20px;
+}
+.system{
+    margin-top: 20px;
+}
+.rive{
+    margin-top: 120px;
+}
+.number{
+    display: flex;
+    padding:20px;
+    gap: 50px;
+    margin-top: 100px;
+    color: red;
+    font-weight: bolder;
+    
+}
+.hours{
+    display: flex;
+    padding:5px;
+    gap: 20px;
+    font-weight: bolder;
+    
+}
+.description{
+    background-color: white;
+    margin-left: 20px;
+    position: relative;
+    padding: 20px;
+}
+.description p{
+    margin-left: 40px;
+   margin-top: 5px;
+}
