@@ -3,6 +3,7 @@
 ## Overview
 This project is a **web page layout** designed to simulate a professional networking/job portal interface. It uses **HTML** and **CSS** TO Create company pages, job postings, notifications, and interactive elements.
 
+
 ### Header
 - Displays **user info**, profile picture, and a dropdown for user options.
 - Navigation menu with links:
@@ -14,6 +15,7 @@ This project is a **web page layout** designed to simulate a professional networ
 - Action buttons like **“Become Refresher”**.
 - Notification counters for connections, courses, notifications, and jobs.
 
+
 ### User Profile Section
 - Profile summary with image, name, headline, and brief description.
 - Options to view profile, job applications, interviews, and saved offers.
@@ -23,6 +25,7 @@ This project is a **web page layout** designed to simulate a professional networ
 - Example companies displayed with logos and hiring information.
 - Job postings for positions like Network & System Admin, Machine Learning Engineer, Legal Officer.
 - Urgent hiring notifications with countdown timers.
+
 
 ### Job Postings & Professional Groups
 - Section for job postings with vacancy details, experience requirements, and follow options.
